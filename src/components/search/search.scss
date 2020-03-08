@@ -1,0 +1,19 @@
+.search{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img{
+        width: 20px;
+        height: 20px;
+    }
+}
+.sousuo{
+    width: 80%;
+    background: red;
+}
