@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 var service = axios.create({
-    baseURL:"/hd",
+    baseURL:"http://jx.xuzhixiang.top/ap/api",
     "content-type":"application/json",
     timeout:5000
 })
